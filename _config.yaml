@@ -2,4 +2,7 @@ title: NoName project
 description: No description
 theme: null
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
 permalink: pretty
