@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ /assets/css/style.css | absolute_url }}">
-  <link rel="stylesheet" href="{{ /assets/css/syntax.css | absolute_url }}" type="text/css" />
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/style.css" type="text/css" >
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/syntax.css" type="text/css" />
 </head>
 <body>
   {{ content }}

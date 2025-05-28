@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Noname
+title: Links
 ---
 
 Links:
