@@ -1,3 +1,7 @@
+# LummaStealer v4 fakenet
+
+```python
+
 import http.server
 import ssl
 import re
@@ -69,3 +73,4 @@ try:
     httpd.serve_forever()
 except Exception as e:
     print(f"[!] Server crashed: {e}", flush=True)
+```
