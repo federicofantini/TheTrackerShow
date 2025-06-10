@@ -16,3 +16,4 @@ Links:
 - [LummaStealer v6.3 chacha20 proof](scripts/python/05-lummastealer_v6.3_chacha20_proof)
 - [LummaStealer v6.3 fakenet script](scripts/fakenet/02-lummastealer_v6.3_fakenet)
 - [LummaStealer v6.3 communication decryption proof](scripts/python/06-lummastealer_v6.3_communication_decryption_proof)
+- [LummaStealer v6.3 json file strings decryption](scripts/python/07-lummastealer_v6.3_json_file_strings_decryption)
