@@ -13,3 +13,4 @@ Links:
 - [LummaStealer v4 xor decryption proof](scripts/python/02-lummastealer_v4_xor_decryption_proof)
 - [LummaStealer v4 communication decryption proof](scripts/python/03-lummastealer_v4_communication_decryption_proof)
 - [LummaStealer v4 bruteforce Caesar cipher](scripts/python/04-lummastealer_v4_bruteforce_Caesar_cipher)
+- [LummaStealer v6.3 chacha20 proof](scripts/python/05-lummastealer_v6.3_chacha20_proof)
