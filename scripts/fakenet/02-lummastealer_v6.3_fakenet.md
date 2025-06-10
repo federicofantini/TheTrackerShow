@@ -66,3 +66,4 @@ try:
     httpd.serve_forever()
 except Exception as e:
     print(f"[!] Server crashed: {e}", flush=True)
+```
