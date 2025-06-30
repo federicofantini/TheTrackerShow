@@ -87,7 +87,7 @@ layout: none
       {% if file.extname == ".jpg" or file.extname == ".png" or file.extname == ".jpeg" or file.extname == ".webp" or file.extname == ".avif" %}
         {% assign title = file.name | split: "." | first %}
         <div class="slide{% if forloop.first %} active{% endif %}">
-          <img src="{{ file.path }}" class="slide-img" />
+          <img src="{{ site.url }}{{ site.baseurl }}{{ file.path }}" class="slide-img" />
           <div class="caption">{{ title }}</div>
         </div>
       {% endif %}
