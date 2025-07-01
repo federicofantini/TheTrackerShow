@@ -7,7 +7,7 @@ Links:
 
 - [Acknowledgements](acknowledgements)
 - [C2 network slideshow](c2-network-slideshow)
-- [LummaStealer process un-hollowing script](scripts/x64dbg/01-lummastealer_process_unhollowing)
+- [LummaStealer process un-hollowing script](scripts/x64dbg/01-lummastealer_process_no_hollowing)
 - [LummaStealer interactions script](scripts/x64dbg/02-lummastealer_interactions)
 - [LummaStealer v4 fakenet script](scripts/fakenet/01-lummastealer_v4_fakenet)
 - [LummaStealer v4 base64 decode proof](scripts/python/01-lummastealer_v4_base64_decode_proof)

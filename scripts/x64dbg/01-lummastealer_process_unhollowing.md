@@ -103,4 +103,4 @@ ret
 
 <br><br>
 
-<p><img src="{{ site.url }}{{ site.baseurl }}/scripts/x64dbg/01-lummastealer_process_unhollowing.png" alt="lummastealer process unhollowing output" width="100%"/></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/scripts/x64dbg/01-lummastealer_process_no_hollowing.png" alt="lummastealer process no-hollowing output" width="100%"/></p>
