@@ -1,4 +1,4 @@
-# LummaStealer process no-hollowing
+# LummaStealer process injection
 
 ```c
 // clear breakpoints
@@ -10,7 +10,7 @@ log "PEB beingdebugged flag at startup: {mem;1@$peb+0x2}"
 set $peb+0x2, #00#
 log "PEB beingdebugged flag forced to be 0: {mem;1@$peb+0x2}"
 
-// try to dump process no-hollowing injection
+// try to dump process injection
 created_process_handle = 0
 created_process_id = 0
 created_thread_id = 0
@@ -103,4 +103,4 @@ ret
 
 <br><br>
 
-<p><img src="{{ site.url }}{{ site.baseurl }}/scripts/x64dbg/01-lummastealer_process_no_hollowing.png" alt="lummastealer process no-hollowing output" width="100%"/></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/scripts/x64dbg/01-lummastealer_process_injection.png" alt="lummastealer process injection output" width="100%"/></p>
